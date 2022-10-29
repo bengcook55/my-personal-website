@@ -1,0 +1,18 @@
+body {
+    background: lightcyan;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: wavy;
+    color: black;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    box-shadow: inset;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
